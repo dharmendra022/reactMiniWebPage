@@ -14,7 +14,7 @@ const Boot = () => {
     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
-</div>Column</div>
+</div></div>
                     <div className="col"><div class="card" >
   <img src="https://picsum.photos/200/300?grayscale" className="card-img-top" alt="..." height="200px"/>
   <div className="card-body">
@@ -22,7 +22,7 @@ const Boot = () => {
     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
-</div>Column</div>
+</div></div>
                     <div className="col"><div class="card" >
   <img src="https://picsum.photos/200/300/?blur" class="card-img-top" alt="..." height="200px"/>
   <div className="card-body">
@@ -30,7 +30,7 @@ const Boot = () => {
     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
-</div>Column</div>
+</div></div>
                 </div>
             </div>
         </React.Fragment>
